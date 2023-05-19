@@ -8,7 +8,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=http://shuyuan.miaogongzi.net/shuyuan/1683376530.txt"
+                        "proxy://do=live&type=txt&ext=https://framagit.org/yuzuonan/hs/-/raw/main/XTV.txt"
                     ]
                 }
             ]
@@ -45,7 +45,9 @@
     "sites": [
     
     
-    
+    {"key":"vv002","name":"️👠番號👠","type":4,"api":"https://raw.gitmirror.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.gitmirror.com/c120487/00/blob/main/jar/xc0126.jar"},
+{"key":"vv003","name":"️👙主題👙","type":4,"api":"https://raw.gitmirror.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://raw.gitmirror.com/c120487/00/blob/main/jar/xc0126.jar"},
+
     
     
     {
@@ -310,56 +312,7 @@
                 "AI换脸",
                 "国产传媒"
             ]
-        }, {
-      "key": "csp_xBPQ_超清3",
-      "name": "暴雨2",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitmirror.com/fkaf1/fk/main/h/暴雨.json"
-    },
-    {
-      "key": "csp_xBPQ_6121",
-      "name": "6121",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitmirror.com/fkaf1/fk/main/h/6121.json"
-    },
-    {
-      "key": "csp_xBPQ_6197",
-      "name": "6197",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitmirror.com/fkaf1/fk/main/h/6197.json"
-    },
-    {
-      "key": "csp_xBPQ_615n",
-      "name": "615n",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitmirror.com/fkaf1/fk/main/h/615n.json"
-    },
-    {
-      "key": "csp_xBPQ_6154",
-      "name": "6154",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://raw.gitmirror.com/fkaf1/fk/main/h/6154.json"
-    },
+        }, 
     {
       "key": "csp_xBPQ_蜜桃",
       "name": "蜜桃",
